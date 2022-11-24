@@ -1,0 +1,66 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+ 
+
+.content{
+    background-color:   hsl(216, 50%, 16%);
+    ;
+    width: 280px;
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+.content1 img{
+    margin-left: 24px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+
+.content1 h3{
+    margin-left: 24px;
+    color: white;
+}
+.content p{
+    margin-left: 24px;
+    font-size: 15px;
+    color: hsl(215, 51%, 70%);
+}
+
+.class{
+    display: flex;
+}
+
+.class1{
+    margin-right: 30px;
+}
+
+.left{
+    color: hsl(215, 51%, 70%);
+    font-size: 15px;
+}
+
+.last1 img{
+    border:3px solid white;
+    border-radius: 50%;
+     
+}
+
+
+.content2{
+    display: flex;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.home{
+    color: aqua;
+}
+.jules{
+    color:white;
+}
+
+ 
